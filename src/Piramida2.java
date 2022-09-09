@@ -6,6 +6,6 @@ public class Piramida2 {
         for (int i : nim) {
             index = index + i;
         }
-        System.out.println("Jumlah Dari Semua Elemen Array Adalah :" + index);
+        System.out.println("total elemen array :" + index);
     }
 }
